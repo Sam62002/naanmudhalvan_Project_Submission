@@ -17,6 +17,6 @@ Password:U1e2l3@2002) *
 
 py manage.py runserver 3000
 run this server: http://127.0.0.1:3000/
-
+ 
 2.to exit the code press ctrl-break in terminal.)*
 
