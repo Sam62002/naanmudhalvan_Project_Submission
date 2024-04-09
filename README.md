@@ -7,10 +7,10 @@ UNAME: Sam62002
 Password:U1e2l3@2002) *
 
 3.#Project Running Steps:(
-py manage.py makemigrations
-py manage.py migrate
-py manage.py createsuperuser
-py manage.py runserver 3000) *
+1. py manage.py makemigrations
+2. py manage.py migrate
+3. py manage.py createsuperuser
+4. py manage.py runserver 3000) *
 
 4.(
 1.click view site for the usic player page.
