@@ -3,8 +3,8 @@ MusicPlayer
 1.PROJECT CREATED BY: SAM HARRISH E/ au110621104302
 
 2.LOGIN DEATILS:( 
-UNAME: Sam62002
-Password:U1e2l3@2002) *
+1.  UNAME: aut2211060007
+2.  Password: 196895) *
 
 3.#Project Running Steps:(
 1. py manage.py makemigrations
@@ -12,7 +12,7 @@ Password:U1e2l3@2002) *
 3. py manage.py createsuperuser
 4. py manage.py runserver 3000) *
 
-4.(
+4.( to run the musicplayer webpage:
 1.click view site for the usic player page.
 
 py manage.py runserver 3000
