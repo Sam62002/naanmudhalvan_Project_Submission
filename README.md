@@ -13,7 +13,7 @@ MusicPlayer
 4. py manage.py runserver 3000) *
 
 4.( to run the musicplayer webpage:
-1.click view site for the usic player page.
+1.click view site for the music player page.
 
 py manage.py runserver 3000
 run this server: http://127.0.0.1:3000/
