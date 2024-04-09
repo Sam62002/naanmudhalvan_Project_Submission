@@ -4,7 +4,7 @@ MusicPlayer
 
 2.LOGIN DEATILS:( 
 1.  UNAME: aut2211060007
-2.  Password: 196895) *
+2.  Password: 196895
 
 3.#Project Running Steps:(
 1. py manage.py makemigrations
